@@ -70,7 +70,7 @@
 ## Org 编写
 参考如下： 
 > [The Org Manual](http://orgmode.org/manual/index.html)
-> [GNU Emacs](https://zhaorengui.github.io/software/2016/06/06/using-emacs/)
+> [GNU Emacs](https://guanchaoguo.github.io/software/2016/06/06/using-emacs/)
 
 注意：在通过 PlantUML 组件画图时，目前的解决办法只能是：先指定生成图片的地址，执行生成操作，然后改为站点访问地址，最后执行发布。具体操作如下：
 1. 先指定特定生成图片地址
@@ -100,7 +100,7 @@ Alice <-- Bob: Another authentication Response
  安装jeyll之前，先安装ruby-dev
  $ sudo apt install ruby-dev
  $ sudo gem install jekyll
-3. $ git clone https://github.com/zhaorengui/zhaorengui.github.io.git
+3. $ git clone https://github.com/guanchaoguo/guanchaoguo.github.io.git
  $ cd zhaorengui.github.io
 4. 安装依赖项：
  $ bundle install

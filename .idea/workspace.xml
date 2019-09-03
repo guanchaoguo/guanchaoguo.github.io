@@ -2,85 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="94ef1e7f-1cff-49a1-93d8-b181a71130e1" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/Gemfile.lock" beforeDir="false" afterPath="$PROJECT_DIR$/Gemfile.lock" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_site/2017/06/13/browsers/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/_site/2017/06/13/browsers/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_site/2019/06/18/thinking-in-java/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/_site/2019/06/18/thinking-in-java/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_site/about/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/_site/about/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_site/algorithms/2014/05/25/algorithms-family/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/_site/algorithms/2014/05/25/algorithms-family/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_site/algorithms/2014/10/21/acm/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/_site/algorithms/2014/10/21/acm/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_site/algorithms/2015/05/12/project-euler/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/_site/algorithms/2015/05/12/project-euler/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_site/algorithms/2018/06/12/encrypt/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/_site/algorithms/2018/06/12/encrypt/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_site/algorithms/2019/02/12/offer/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/_site/algorithms/2019/02/12/offer/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_site/algorithms/2019/02/13/data-structure-algorithms/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/_site/algorithms/2019/02/13/data-structure-algorithms/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_site/archives/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/_site/archives/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_site/assets/css/main.css" beforeDir="false" afterPath="$PROJECT_DIR$/_site/assets/css/main.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_site/assets/css/style.css" beforeDir="false" afterPath="$PROJECT_DIR$/_site/assets/css/style.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_site/assets/lib/fastclick/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/_site/assets/lib/fastclick/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_site/assets/lib/jquery_lazyload/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/_site/assets/lib/jquery_lazyload/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_site/atom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/_site/atom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_site/c#/2014/05/10/c-notes/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/_site/c#/2014/05/10/c-notes/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_site/c#/2014/06/10/C-file/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/_site/c#/2014/06/10/C-file/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_site/c#/2015/05/20/c-thead/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/_site/c#/2015/05/20/c-thead/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_site/c#/2016/11/20/asp.net-clone/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/_site/c#/2016/11/20/asp.net-clone/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_site/c#/2017/03/28/c-list/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/_site/c#/2017/03/28/c-list/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_site/categories/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/_site/categories/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_site/category/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/_site/category/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_site/database/2014/07/18/sql-script/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/_site/database/2014/07/18/sql-script/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_site/database/2016/11/15/mysql-configure-optimization/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/_site/database/2016/11/15/mysql-configure-optimization/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_site/database/2017/04/11/sql-server/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/_site/database/2017/04/11/sql-server/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_site/database/2017/12/14/mysql-notes/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/_site/database/2017/12/14/mysql-notes/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_site/database/linux/2014/12/14/install-oracle-on-linux/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/_site/database/linux/2014/12/14/install-oracle-on-linux/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_site/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/_site/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_site/javascript/2015/01/13/jquery-definitive-guide/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/_site/javascript/2015/01/13/jquery-definitive-guide/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_site/javascript/2015/01/15/jquery-ten-skill/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/_site/javascript/2015/01/15/jquery-ten-skill/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_site/javascript/2015/03/26/professional-javascript/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/_site/javascript/2015/03/26/professional-javascript/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_site/javascript/2015/10/15/js-public/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/_site/javascript/2015/10/15/js-public/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_site/javascript/2016/09/03/jquery-easyui/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/_site/javascript/2016/09/03/jquery-easyui/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_site/javascript/2018/09/17/ajax/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/_site/javascript/2018/09/17/ajax/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_site/javascript/2018/12/29/vue实例属性之el_template_render/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/_site/javascript/2018/12/29/vue实例属性之el_template_render/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_site/jekyll/2018/08/05/next-tutorial/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/_site/jekyll/2018/08/05/next-tutorial/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_site/linux/2018/08/06/using-debian/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/_site/linux/2018/08/06/using-debian/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_site/linux/2018/12/27/xmr恶意挖矿脚本处理笔记/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/_site/linux/2018/12/27/xmr恶意挖矿脚本处理笔记/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_site/network/2018/01/03/ccna-7th/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/_site/network/2018/01/03/ccna-7th/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_site/network/2018/01/27/http-error/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/_site/network/2018/01/27/http-error/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_site/network/software/2018/08/10/shadowsocks-switchyOmega-en/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/_site/network/software/2018/08/10/shadowsocks-switchyOmega-en/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_site/network/software/2019/06/23/shadowsocks-switchyOmega-cn/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/_site/network/software/2019/06/23/shadowsocks-switchyOmega-cn/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_site/page2/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/_site/page2/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_site/page3/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/_site/page3/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_site/page4/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/_site/page4/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_site/page5/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/_site/page5/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_site/page6/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/_site/page6/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_site/php/2015/03/20/php-timing-task/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/_site/php/2015/03/20/php-timing-task/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_site/php/2015/04/12/php-page/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/_site/php/2015/04/12/php-page/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_site/php/2015/04/12/php-public-functions/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/_site/php/2015/04/12/php-public-functions/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_site/php/2015/08/20/php-import-export/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/_site/php/2015/08/20/php-import-export/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_site/php/2018/05/04/php-built-in-functions/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/_site/php/2018/05/04/php-built-in-functions/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_site/php/2018/09/17/php-cross-domain/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/_site/php/2018/09/17/php-cross-domain/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_site/php/2018/09/19/php-sina-short-url/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/_site/php/2018/09/19/php-sina-short-url/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_site/php/2019/06/19/js-functions/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/_site/php/2019/06/19/js-functions/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_site/python/2016/05/23/selenium-with-python/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/_site/python/2016/05/23/selenium-with-python/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_site/robots.txt" beforeDir="false" afterPath="$PROJECT_DIR$/_site/robots.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_site/search.xml" beforeDir="false" afterPath="$PROJECT_DIR$/_site/search.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_site/sitemap.xml" beforeDir="false" afterPath="$PROJECT_DIR$/_site/sitemap.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_site/software/2014/07/28/revision-control/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/_site/software/2014/07/28/revision-control/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_site/software/2015/11/06/using-vim/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/_site/software/2015/11/06/using-vim/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_site/software/2016/06/06/using-emacs/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/_site/software/2016/06/06/using-emacs/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_site/software/2018/05/25/你还在使用IE浏览器吗/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/_site/software/2018/05/25/你还在使用IE浏览器吗/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_site/software/2018/07/22/tools/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/_site/software/2018/07/22/tools/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_site/software/2019/01/28/db-tools/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/_site/software/2019/01/28/db-tools/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_site/software/2019/06/05/markdown/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/_site/software/2019/06/05/markdown/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_site/software/2019/07/11/docker/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/_site/software/2019/07/11/docker/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_site/software/linux/2014/10/15/using-svn/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/_site/software/linux/2014/10/15/using-svn/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_site/software/linux/2016/03/25/apache-nginx-mysql-php/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/_site/software/linux/2016/03/25/apache-nginx-mysql-php/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_site/software/web-server/2014/10/25/web-server/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/_site/software/web-server/2014/10/25/web-server/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_site/tag/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/_site/tag/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_site/tags/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/_site/tags/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_site/职业生涯/2017/06/11/programmer-is-no/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/_site/职业生涯/2017/06/11/programmer-is-no/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_site/职业生涯/2019/01/17/总结2018-展望2019/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/_site/职业生涯/2019/01/17/总结2018-展望2019/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_site/软件工程/2015/08/20/design-pattern/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/_site/软件工程/2015/08/20/design-pattern/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_site/软件工程/2017/06/13/软件工程/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/_site/软件工程/2017/06/13/软件工程/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_site/软件工程/2017/06/15/how-to-solve-it/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/_site/软件工程/2017/06/15/how-to-solve-it/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_site/软件工程/2018/09/02/big-data/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/_site/软件工程/2018/09/02/big-data/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -89,13 +11,30 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="FileEditorManager">
-    <leaf>
-      <file pinned="false" current-in-tab="true">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/_posts/php/2015-04-12-php-public-functions.md">
           <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
             <state split_layout="SPLIT">
               <first_editor relative-caret-position="180">
-                <caret line="10" column="7" lean-forward="true" selection-start-line="10" selection-start-column="7" selection-end-line="10" selection-end-column="7" />
+                <caret line="10" column="7" selection-start-line="10" selection-start-column="7" selection-end-line="10" selection-end-column="7" />
+              </first_editor>
+              <second_editor />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/index.html">
+          <provider selected="true" editor-type-id="text-editor" />
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/README.md">
+          <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+            <state split_layout="SPLIT">
+              <first_editor relative-caret-position="412">
+                <caret line="102" column="57" selection-start-line="102" selection-start-column="57" selection-end-line="102" selection-end-column="57" />
               </first_editor>
               <second_editor />
             </state>
@@ -107,6 +46,13 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/README.md" />
+      </list>
+    </option>
+  </component>
   <component name="ProjectFrameBounds" extendedState="6">
     <option name="x" value="-19" />
     <option name="width" value="1131" />
@@ -117,29 +63,18 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
             <path>
-              <item name="zhaorengui.github.io" type="b2602c69:ProjectViewProjectNode" />
-              <item name="zhaorengui.github.io" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="zhaorengui.github.io" type="b2602c69:ProjectViewProjectNode" />
-              <item name="zhaorengui.github.io" type="462c0819:PsiDirectoryNode" />
-              <item name="_posts" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="zhaorengui.github.io" type="b2602c69:ProjectViewProjectNode" />
-              <item name="zhaorengui.github.io" type="462c0819:PsiDirectoryNode" />
-              <item name="_posts" type="462c0819:PsiDirectoryNode" />
-              <item name="php" type="462c0819:PsiDirectoryNode" />
+              <item name="guanchaoguo.github.io" type="b2602c69:ProjectViewProjectNode" />
+              <item name="guanchaoguo.github.io" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
         </subPane>
       </pane>
-      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -171,24 +106,20 @@
       <option name="presentableId" value="Default" />
       <updated>1567498718833</updated>
       <workItem from="1567498720514" duration="239000" />
+      <workItem from="1567499564737" duration="695000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="243000" />
+    <option name="totallyTimeSpent" value="938000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="54" y="-8" width="1874" height="1096" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info id="Favorites" side_tool="true" />
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.24972437" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.25248072" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
-      <window_info anchor="bottom" id="Docker" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Database Changes" />
-      <window_info anchor="bottom" id="Version Control" />
-      <window_info anchor="bottom" id="Terminal" />
-      <window_info anchor="bottom" id="Event Log" side_tool="true" />
+      <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
       <window_info anchor="bottom" id="Run" order="2" />
@@ -196,10 +127,15 @@
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" />
-      <window_info anchor="right" id="Database" />
+      <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Database Changes" order="8" />
+      <window_info anchor="bottom" id="Version Control" order="9" />
+      <window_info anchor="bottom" id="Terminal" order="10" />
+      <window_info anchor="bottom" id="Event Log" order="11" side_tool="true" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Database" order="3" />
     </layout>
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -209,8 +145,21 @@
     <entry file="file://$PROJECT_DIR$/_posts/php/2015-04-12-php-public-functions.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
-          <first_editor relative-caret-position="72">
-            <caret line="4" column="14" lean-forward="true" selection-start-line="4" selection-start-column="14" selection-end-line="4" selection-end-column="14" />
+          <first_editor relative-caret-position="180">
+            <caret line="10" column="7" selection-start-line="10" selection-start-column="7" selection-end-line="10" selection-end-column="7" />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/index.html">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/README.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="412">
+            <caret line="102" column="57" selection-start-line="102" selection-start-column="57" selection-end-line="102" selection-end-column="57" />
           </first_editor>
           <second_editor />
         </state>
