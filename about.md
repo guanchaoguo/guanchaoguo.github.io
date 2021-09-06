@@ -25,6 +25,7 @@ titles:
   # @end locale config
 key: page-about
 ---
+
 ### 关于作者
 - 2021 年, 加入金山办公室从事SRE
 - 2019 年, 加入乐信从事金融行业
