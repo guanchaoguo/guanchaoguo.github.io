@@ -35,3 +35,4 @@ key: page-about
 
 ### 联系方式
 邮箱：guanchaoguo@qq.com
+wx:   guanchaoguo1

@@ -5,11 +5,12 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="94ef1e7f-1cff-49a1-93d8-b181a71130e1" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/_posts/2021-09-07-mac-navicat.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/quanyecha_gewei.jpeg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/_posts/2021-09-07-github-token.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/jiegeng.jpeg" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/_site/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/_site/index.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/_site/sitemap.xml" beforeDir="false" afterPath="$PROJECT_DIR$/_site/sitemap.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/about.md" beforeDir="false" afterPath="$PROJECT_DIR$/about.md" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
