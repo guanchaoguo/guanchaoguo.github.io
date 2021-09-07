@@ -305,6 +305,30 @@
             </li></ul></div><meta itemprop="author" content="Your Name"/><meta itemprop="datePublished" content="2021-09-07T00:00:00+08:00">
     <meta itemprop="keywords" content="TeXt"></div>
       </article><article class="item" itemscope itemtype="http://schema.org/BlogPosting"><div class="item__content">
+          <header><a href="/2021/09/07/linux-ssh.html"><h2 itemprop="headline" class="item__header">linux ssh 配置了免密为何不生效</h2></a></header>
+          <div class="item__description"><div class="article__content" itemprop="description articleBody">ssh 免密的登录原理
+
+  允许免密的公钥放入 $HOME/.ssh/authorized_keys
+  远程主机的公钥被接受 $HOME/.ssh/known_hosts
+
+
+为什么配置了秘钥还不能免密
+
+  虽然放入了 authorized_keys 中但是对方主机设置会查询指纹验证 known_hosts 没有
+  有的是shell会交互会让你确认 但是应用程序不能交互 就看不到询问接受指纹的
+    如何处理这个问题
+  
+  使用工具 ssh-copy-id user@host 分发公钥
+  cli 手工复制
+     mkdir -p ~/.ssh
+ echo "xxx id_rsa.pub xxx"&gt; ~/.ssh/authorized_keys
+ chmod 0...</div><p><a href="/2021/09/07/linux-ssh.html">Read more</a></p></div><div class="article__info clearfix"><ul class="left-col menu"><li>
+              <a class="button button--secondary button--pill button--sm"
+                href="/archive.html?tag=TeXt">TeXt</a>
+            </li></ul><ul class="right-col menu"><li><i class="far fa-calendar-alt"></i> <span>Sep 07, 2021</span>
+            </li></ul></div><meta itemprop="author" content="Your Name"/><meta itemprop="datePublished" content="2021-09-07T00:00:00+08:00">
+    <meta itemprop="keywords" content="TeXt"></div>
+      </article><article class="item" itemscope itemtype="http://schema.org/BlogPosting"><div class="item__content">
           <header><a href="/2021/09/07/golang-gin.html"><h2 itemprop="headline" class="item__header">Gin复用相同的路由</h2></a></header>
           <div class="item__description"><div class="article__content" itemprop="description articleBody">Gin 中多个相同的项目复用相同的路由
 
