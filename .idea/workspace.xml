@@ -4,12 +4,30 @@
     <option name="autoReloadType" value="ALL" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="94ef1e7f-1cff-49a1-93d8-b181a71130e1" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/_posts/2021-09-07-docker-db.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/jiegengzhisi.jpeg" afterDir="false" />
+    <list default="true" id="94ef1e7f-1cff-49a1-93d8-b181a71130e1" name="Default Changelist" comment="net ping loss">
+      <change afterPath="$PROJECT_DIR$/_posts/2021-09-07-k8s-network.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/_posts/2021-09-16-golang-json_mysql.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/_posts/2021-09-16-monitoring-promthus.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/images/posts/Flannel-host-gw.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/images/posts/k8_docker_net.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/images/posts/k8_net.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/images/posts/lb_svc_net.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/images/posts/lvs_k8.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/images/posts/pod_net.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/images/posts/svc_net.png" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_posts/2021-09-07-docker-db.md" beforeDir="false" afterPath="$PROJECT_DIR$/_posts/2021-09-07-docker-db.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_posts/2021-09-07-github-token.md" beforeDir="false" afterPath="$PROJECT_DIR$/_posts/2021-09-07-github-token.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_posts/2021-09-07-golang-gin.md" beforeDir="false" afterPath="$PROJECT_DIR$/_posts/2021-09-07-golang-gin.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_posts/2021-09-07-linux-ssh.md" beforeDir="false" afterPath="$PROJECT_DIR$/_posts/2021-09-07-linux-ssh.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_posts/2021-09-07-mac-navicat.md" beforeDir="false" afterPath="$PROJECT_DIR$/_posts/2021-09-07-mac-navicat.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_site/404.html" beforeDir="false" afterPath="$PROJECT_DIR$/_site/404.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/_site/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/_site/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_site/robots.txt" beforeDir="false" afterPath="$PROJECT_DIR$/_site/robots.txt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/_site/sitemap.xml" beforeDir="false" afterPath="$PROJECT_DIR$/_site/sitemap.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/jiegeng.jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/jiegengzhisi.jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/quanyecha_gewei.jpeg" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -77,7 +95,7 @@
     <property name="go.modules.go.list.on.any.changes.was.set" value="true" />
     <property name="go.sdk.automatically.set" value="true" />
     <property name="go.vendoring.notification.had.been.shown" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/images" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/assets/images/posts" />
     <property name="node.js.detected.package.eslint" value="true" />
     <property name="node.js.detected.package.stylelint" value="true" />
     <property name="node.js.selected.package.eslint" value="(autodetect)" />
@@ -85,13 +103,37 @@
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
     <property name="nodejs_package_manager_path" value="npm" />
+    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
+    <property name="vue.rearranger.settings.migration" value="true" />
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
-      <recent name="$PROJECT_DIR$/images" />
+      <recent name="$PROJECT_DIR$/assets/images/posts" />
       <recent name="$PROJECT_DIR$/_posts" />
+      <recent name="$PROJECT_DIR$/images" />
       <recent name="$PROJECT_DIR$" />
     </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/assets/images/posts" />
+      <recent name="$PROJECT_DIR$/images" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration name="serve" type="js.build_tools.npm" temporary="true" nameIsGenerated="true">
+      <package-json value="$PROJECT_DIR$/package.json" />
+      <command value="run" />
+      <scripts>
+        <script value="serve" />
+      </scripts>
+      <node-interpreter value="project" />
+      <envs />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="npm.serve" />
+      </list>
+    </recent_temporary>
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="SvnConfiguration">
@@ -152,6 +194,13 @@
       </map>
     </option>
     <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="prometheus" />
+    <MESSAGE value="golang json" />
+    <MESSAGE value="k8 net" />
+    <MESSAGE value="net ping loss" />
+    <option name="LAST_COMMIT_MESSAGE" value="net ping loss" />
   </component>
   <component name="VgoProject">
     <integration-enabled>true</integration-enabled>

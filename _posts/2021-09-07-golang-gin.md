@@ -3,8 +3,6 @@ title: Gin复用相同的路由
 tags: TeXt
 article_header:
   type: cover
-  image:
-    src: /screenshot.jpg
 ---
 
 ### Gin 中多个相同的项目复用相同的路由

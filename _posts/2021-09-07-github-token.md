@@ -3,8 +3,6 @@ title: github token
 tags: TeXt
 article_header:
   type: cover
-  image:
-    src: images/jiegeng.jpeg
 ---
 
 ### github 免密

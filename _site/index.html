@@ -5,7 +5,7 @@
 
 <meta name="description" content="Your Site Description
 ">
-<link rel="canonical" href="/"><link rel="alternate" type="application/rss+xml" title="Your Site Title" href="/feed.xml"><!-- start favicons snippet, use https://realfavicongenerator.net/ --><link rel="apple-touch-icon" sizes="180x180" href="/assets/apple-touch-icon.png"><link rel="icon" type="image/png" sizes="32x32" href="/assets/favicon-32x32.png"><link rel="icon" type="image/png" sizes="16x16" href="/assets/favicon-16x16.png"><link rel="manifest" href="/assets/site.webmanifest"><link rel="mask-icon" href="/assets/safari-pinned-tab.svg" color="#fc4d50"><link rel="shortcut icon" href="/assets/favicon.ico">
+<link rel="canonical" href="http://0.0.0.0:4000/"><link rel="alternate" type="application/rss+xml" title="Your Site Title" href="/feed.xml"><!-- start favicons snippet, use https://realfavicongenerator.net/ --><link rel="apple-touch-icon" sizes="180x180" href="/assets/apple-touch-icon.png"><link rel="icon" type="image/png" sizes="32x32" href="/assets/favicon-32x32.png"><link rel="icon" type="image/png" sizes="16x16" href="/assets/favicon-16x16.png"><link rel="manifest" href="/assets/site.webmanifest"><link rel="mask-icon" href="/assets/safari-pinned-tab.svg" color="#fc4d50"><link rel="shortcut icon" href="/assets/favicon.ico">
 
 <meta name="msapplication-TileColor" content="#ffc40d"><meta name="msapplication-config" content="/assets/browserconfig.xml">
 
@@ -280,6 +280,46 @@
 
 <!-- end custom main top snippet -->
 <article itemscope itemtype="http://schema.org/WebPage"><header style="display:none;"><h1>Home</h1></header><meta itemprop="headline" content="Home"><meta itemprop="author" content="Your Name"/><div class="js-article-content"><div class="layout--articles"><div class="article-list items items--divided"><article class="item" itemscope itemtype="http://schema.org/BlogPosting"><div class="item__content">
+          <header><a href="/2021/09/16/monitoring-promthus.html"><h2 itemprop="headline" class="item__header">Prometheus 查询按特定标签获取平均值 最大值</h2></a></header>
+          <div class="item__description"><div class="article__content" itemprop="description articleBody">在网络中获取一个机房打其他的延迟数据写入普罗米修斯
+
+  获取当前到各大机房的延迟
+      probe_icmp_duration_seconds{phase='rtt',dest_region=~'^*.*',src_region='华为云-北京'}
+
+  
+
+
+求取 5m间隔查看过去1小时的指标平均指标
+    avg_over_time(sum by(dest_region) (probe_icmp_duration_seconds{phase='rtt',dest_region=~'^*.*',src_region='华为云-北京'})[1h:5m])
+
+第二种只获取五分钟的平均值
+    avg( irate(probe_icmp_duration_seconds{pha...</div><p><a href="/2021/09/16/monitoring-promthus.html">Read more</a></p></div><div class="article__info clearfix"><ul class="left-col menu"><li>
+              <a class="button button--secondary button--pill button--sm"
+                href="/archive.html?tag=TeXt">TeXt</a>
+            </li></ul><ul class="right-col menu"><li><i class="far fa-calendar-alt"></i> <span>Sep 16, 2021</span>
+            </li></ul></div><meta itemprop="author" content="Your Name"/><meta itemprop="datePublished" content="2021-09-16T00:00:00+08:00">
+    <meta itemprop="keywords" content="TeXt"></div>
+      </article><article class="item" itemscope itemtype="http://schema.org/BlogPosting"><div class="item__content">
+          <header><a href="/2021/09/16/golang-json_mysql.html"><h2 itemprop="headline" class="item__header">golang 从mysql从查询出来的json无法解析</h2></a></header>
+          <div class="item__description"><div class="article__content" itemprop="description articleBody">在mysql字段content中存入是一段json
+
+  但是在查询出来后却无法解析 直接报错
+      func (d *IntlAlertDAO) Query(startTs, endTs time.Time) ([]mo.WaterLogs, error) {
+
+  var records []mo.WaterLogs
+  rows,err := d.db.Table(d.tbName).Where("create_time &gt;? and create_time &lt;=? ", startTs, endTs).Rows()
+  defer d.db.Close()
+  if err != nil {
+      return nil,err
+  }
+
+  for ro...</div><p><a href="/2021/09/16/golang-json_mysql.html">Read more</a></p></div><div class="article__info clearfix"><ul class="left-col menu"><li>
+              <a class="button button--secondary button--pill button--sm"
+                href="/archive.html?tag=TeXt">TeXt</a>
+            </li></ul><ul class="right-col menu"><li><i class="far fa-calendar-alt"></i> <span>Sep 16, 2021</span>
+            </li></ul></div><meta itemprop="author" content="Your Name"/><meta itemprop="datePublished" content="2021-09-16T00:00:00+08:00">
+    <meta itemprop="keywords" content="TeXt"></div>
+      </article><article class="item" itemscope itemtype="http://schema.org/BlogPosting"><div class="item__content">
           <header><a href="/2021/09/07/mac-navicat.html"><h2 itemprop="headline" class="item__header">mac navicat无限试用</h2></a></header>
           <div class="item__description"><div class="article__content" itemprop="description articleBody">mac navicat无限试用
 
@@ -323,6 +363,19 @@
      mkdir -p ~/.ssh
  echo "xxx id_rsa.pub xxx"&gt; ~/.ssh/authorized_keys
  chmod 0...</div><p><a href="/2021/09/07/linux-ssh.html">Read more</a></p></div><div class="article__info clearfix"><ul class="left-col menu"><li>
+              <a class="button button--secondary button--pill button--sm"
+                href="/archive.html?tag=TeXt">TeXt</a>
+            </li></ul><ul class="right-col menu"><li><i class="far fa-calendar-alt"></i> <span>Sep 07, 2021</span>
+            </li></ul></div><meta itemprop="author" content="Your Name"/><meta itemprop="datePublished" content="2021-09-07T00:00:00+08:00">
+    <meta itemprop="keywords" content="TeXt"></div>
+      </article><article class="item" itemscope itemtype="http://schema.org/BlogPosting"><div class="item__content">
+          <header><a href="/2021/09/07/k8s-network.html"><h2 itemprop="headline" class="item__header">k8s网络模型说明(转自阿里云公开课)</h2></a></header>
+          <div class="item__description"><div class="article__content" itemprop="description articleBody">早期的docker网络
+ 容器网络发端于 Docker 的网络。Docker 使用了一个比较简单的网络模型，即内部的网桥加内部的保留 IP。
+ 这种设计的好处在于容器的网络和外部世界是解耦的，无需占用宿主机的 IP 或者宿主机的资源，完全是虚拟的。
+ 它的设计初衷是：当需要访问外部世界时，会采用 SNAT 这种方法来借用 Node 的 IP 去访问外面的服务。
+ 比如容器需要对外提供服务的时候，所用的是 DNAT 技术，也就是在 Node 上开一个端口，然后通过 iptable 或者别的某些机制，把流导入到容器的进程上以达到目的。 - 基于私网IP的网桥模式   - 网桥(docker0)、veth-pair(172.x.x.x.x) #####  优势:
+ - 和外部解耦、使用私有网...</div><p><a href="/2021/09/07/k8s-network.html">Read more</a></p></div><div class="article__info clearfix"><ul class="left-col menu"><li>
               <a class="button button--secondary button--pill button--sm"
                 href="/archive.html?tag=TeXt">TeXt</a>
             </li></ul><ul class="right-col menu"><li><i class="far fa-calendar-alt"></i> <span>Sep 07, 2021</span>

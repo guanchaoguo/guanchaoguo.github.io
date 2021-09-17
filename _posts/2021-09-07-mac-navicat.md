@@ -3,8 +3,6 @@ title: mac navicat无限试用
 tags: TeXt
 article_header:
   type: cover
-  image:
-    src: images/quanyecha_gewei.jpeg
 ---
 
 ### mac navicat无限试用
