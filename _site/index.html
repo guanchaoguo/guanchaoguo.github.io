@@ -280,24 +280,17 @@
 
 <!-- end custom main top snippet -->
 <article itemscope itemtype="http://schema.org/WebPage"><header style="display:none;"><h1>Home</h1></header><meta itemprop="headline" content="Home"><meta itemprop="author" content="Your Name"/><div class="js-article-content"><div class="layout--articles"><div class="article-list items items--divided"><article class="item" itemscope itemtype="http://schema.org/BlogPosting"><div class="item__content">
-          <header><a href="/2021/09/16/monitoring-promthus.html"><h2 itemprop="headline" class="item__header">Prometheus 查询按特定标签获取平均值 最大值</h2></a></header>
-          <div class="item__description"><div class="article__content" itemprop="description articleBody">在网络中获取一个机房打其他的延迟数据写入普罗米修斯
-
-  获取当前到各大机房的延迟
-      probe_icmp_duration_seconds{phase='rtt',dest_region=~'^*.*',src_region='华为云-北京'}
-
-  
-
-
-求取 5m间隔查看过去1小时的指标平均指标
-    avg_over_time(sum by(dest_region) (probe_icmp_duration_seconds{phase='rtt',dest_region=~'^*.*',src_region='华为云-北京'})[1h:5m])
-
-第二种只获取五分钟的平均值
-    avg( irate(probe_icmp_duration_seconds{pha...</div><p><a href="/2021/09/16/monitoring-promthus.html">Read more</a></p></div><div class="article__info clearfix"><ul class="left-col menu"><li>
+          <header><a href="/2021/10/08/2021-09-16-monitoring-promthus.html"><h2 itemprop="headline" class="item__header"></h2></a></header>
+          <div class="item__description"><div class="article__content" itemprop="description articleBody"></div><p><a href="/2021/10/08/2021-09-16-monitoring-promthus.html">Read more</a></p></div><div class="article__info clearfix"><ul class="right-col menu"><li><i class="far fa-calendar-alt"></i> <span>Oct 08, 2021</span>
+            </li></ul></div><meta itemprop="author" content="Your Name"/><meta itemprop="datePublished" content="2021-10-08T15:13:22+08:00"></div>
+      </article><article class="item" itemscope itemtype="http://schema.org/BlogPosting"><div class="item__content">
+          <header><a href="/2021/10/08/ssh-gitlab.html"><h2 itemprop="headline" class="item__header">gitlab发生迁移 主机 IP改变 ssh免密失效</h2></a></header>
+          <div class="item__description"><div class="article__content" itemprop="description articleBody">背景需求
+    公司对GitLab CE 12.5.4 -&gt; GitLab CE 13.11.4 升级后IP改变 导致ssh免密失效报错如下 ```shell   @@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@ @    WARNING: REMOTE HOST IDENTIFICATION HAS CHANGED!     @ @@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@ IT IS POSSIBLE THAT SOMEONE IS DOING SOMETHING NASTY! Someone could be eavesdropp...</div><p><a href="/2021/10/08/ssh-gitlab.html">Read more</a></p></div><div class="article__info clearfix"><ul class="left-col menu"><li>
               <a class="button button--secondary button--pill button--sm"
                 href="/archive.html?tag=TeXt">TeXt</a>
-            </li></ul><ul class="right-col menu"><li><i class="far fa-calendar-alt"></i> <span>Sep 16, 2021</span>
-            </li></ul></div><meta itemprop="author" content="Your Name"/><meta itemprop="datePublished" content="2021-09-16T00:00:00+08:00">
+            </li></ul><ul class="right-col menu"><li><i class="far fa-calendar-alt"></i> <span>Oct 08, 2021</span>
+            </li></ul></div><meta itemprop="author" content="Your Name"/><meta itemprop="datePublished" content="2021-10-08T00:00:00+08:00">
     <meta itemprop="keywords" content="TeXt"></div>
       </article><article class="item" itemscope itemtype="http://schema.org/BlogPosting"><div class="item__content">
           <header><a href="/2021/09/16/golang-json_mysql.html"><h2 itemprop="headline" class="item__header">golang 从mysql从查询出来的json无法解析</h2></a></header>
@@ -430,43 +423,20 @@ github token 免密登录
             </li></ul><ul class="right-col menu"><li><i class="far fa-calendar-alt"></i> <span>Sep 07, 2021</span>
             </li></ul></div><meta itemprop="author" content="Your Name"/><meta itemprop="datePublished" content="2021-09-07T00:00:00+08:00">
     <meta itemprop="keywords" content="TeXt"></div>
-      </article><article class="item" itemscope itemtype="http://schema.org/BlogPosting"><div class="item__content">
-          <header><a href="/2021/09/07/docker-db.html"><h2 itemprop="headline" class="item__header">docker-compose mongo es kafka redis etcd mysql</h2></a></header>
-          <div class="item__description"><div class="article__content" itemprop="description articleBody">docker-compose 部署数据库
-
-  经常本地开发遇到部署数据 特别新装的环境很麻烦
-    
-      mongo es kafka redis etcd mysql
-      以上数据库可以任意挑选
-    
-  
-
-
-mac win10 安装步骤
-
-  
-    下载 docker for win/mac desktop
-  
-  
-    设置镜像源 可以加速下载镜像
-    
-      
-        具体路径如下
-
-        setting – &gt; Preferences –&gt; Docker Engine –&gt; registry-mirrors
-      
-    
-  
-
-
-    "https://registry.docke...</div><p><a href="/2021/09/07/docker-db.html">Read more</a></p></div><div class="article__info clearfix"><ul class="left-col menu"><li>
-              <a class="button button--secondary button--pill button--sm"
-                href="/archive.html?tag=TeXt">TeXt</a>
-            </li></ul><ul class="right-col menu"><li><i class="far fa-calendar-alt"></i> <span>Sep 07, 2021</span>
-            </li></ul></div><meta itemprop="author" content="Your Name"/><meta itemprop="datePublished" content="2021-09-07T00:00:00+08:00">
-    <meta itemprop="keywords" content="TeXt"></div>
       </article></div>
-</div><div class="layout--home"></div>
+</div><div class="layout--home"><div class="pagination"><p>10 post articles, 2 pages.</p>
+    <div class="pagination__menu">
+      <ul class="menu menu--nowrap"><li><div class="button button--secondary button--circle disabled">
+            <i class="fas fa-angle-left"></i>
+          </div></li><li>
+              <div class="button button--primary button--circle focus"><span>1</span></div>
+            </li><li>
+                <a class="button button--secondary button--circle" href="/page2"><span>2</span></a>
+              </li><li><a class="button button--secondary button--circle" href="/page2">
+            <i class="fas fa-angle-right"></i>
+          </a></li></ul>
+    </div>
+  </div></div>
 <script>/*(function () {
 
 })();*/
