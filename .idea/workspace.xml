@@ -4,10 +4,10 @@
     <option name="autoReloadType" value="ALL" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="94ef1e7f-1cff-49a1-93d8-b181a71130e1" name="Default Changelist" comment="net ping loss">
-      <change afterPath="$PROJECT_DIR$/_posts/2021-09-07-algorithm-group.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/_posts/2021-10-08-ssh-gitlab.md" afterDir="false" />
+    <list default="true" id="94ef1e7f-1cff-49a1-93d8-b181a71130e1" name="Default Changelist" comment="ssh gitlab">
+      <change afterPath="$PROJECT_DIR$/assets/images/posts/img.png" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_posts/2021-09-07-algorithm-group.md" beforeDir="false" afterPath="$PROJECT_DIR$/_posts/2021-09-07-algorithm-group.md" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/_site/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/_site/index.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/_site/sitemap.xml" beforeDir="false" afterPath="$PROJECT_DIR$/_site/sitemap.xml" afterDir="false" />
     </list>
@@ -182,7 +182,8 @@
     <MESSAGE value="golang json" />
     <MESSAGE value="k8 net" />
     <MESSAGE value="net ping loss" />
-    <option name="LAST_COMMIT_MESSAGE" value="net ping loss" />
+    <MESSAGE value="ssh gitlab" />
+    <option name="LAST_COMMIT_MESSAGE" value="ssh gitlab" />
   </component>
   <component name="VgoProject">
     <integration-enabled>true</integration-enabled>
